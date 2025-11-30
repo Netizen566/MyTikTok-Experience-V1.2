@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyTikTok</string>
+
+    <string name="experience_channel">经验频道</string>
+    <string name="tab_experience">经验</string>
+    <string name="tab_choiceness">精选</string>
+    <string name="tab_follow">关注</string>
+    <string name="tab_mall">商场</string>
+    <string name="tab_recommend">推荐</string>
+</resources>
